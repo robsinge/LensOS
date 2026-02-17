@@ -1,0 +1,4 @@
+
+# Training data (exclude from deployment)
+training_data/
+

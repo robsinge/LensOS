@@ -1,0 +1,201 @@
+sku_id,frame_type,color,lens_type,price_band,base_cost
+SKU_001,full-rim,DarkOliveGreen,single vision,low,1393.25
+SKU_002,half-rim,Bisque,blue cut,mid,2744.11
+SKU_003,half-rim,LightSalmon,progressive,low,959.53
+SKU_004,full-rim,LemonChiffon,single vision,mid,2055.27
+SKU_005,rimless,Ivory,progressive,mid,2593.69
+SKU_006,rimless,DarkSlateGray,progressive,mid,2764.28
+SKU_007,full-rim,DarkKhaki,single vision,mid,2914.36
+SKU_008,half-rim,YellowGreen,single vision,high,3493.26
+SKU_009,full-rim,DarkCyan,single vision,high,4995.08
+SKU_010,full-rim,Peru,single vision,low,1239.21
+SKU_011,full-rim,BlanchedAlmond,blue cut,mid,2791.17
+SKU_012,half-rim,Black,single vision,mid,1667.33
+SKU_013,rimless,DarkGoldenRod,blue cut,mid,1767.98
+SKU_014,full-rim,IndianRed,progressive,mid,2643.77
+SKU_015,half-rim,Lavender,single vision,mid,2893.65
+SKU_016,full-rim,Tan,single vision,high,3971.98
+SKU_017,half-rim,Bisque,progressive,low,1132.7
+SKU_018,full-rim,Gray,single vision,mid,1801.73
+SKU_019,half-rim,YellowGreen,single vision,mid,1837.05
+SKU_020,full-rim,PeachPuff,single vision,low,1241.77
+SKU_021,full-rim,Indigo,single vision,mid,1698.47
+SKU_022,half-rim,RosyBrown,progressive,high,3862.1
+SKU_023,half-rim,LightSeaGreen,progressive,mid,1647.63
+SKU_024,rimless,AntiqueWhite,single vision,low,1114.03
+SKU_025,rimless,DimGray,single vision,high,4998.56
+SKU_026,rimless,Peru,blue cut,high,3427.49
+SKU_027,full-rim,MediumSpringGreen,single vision,premium,6269.02
+SKU_028,rimless,LightSeaGreen,blue cut,mid,1732.2
+SKU_029,half-rim,DeepSkyBlue,single vision,high,4005.7
+SKU_030,full-rim,IndianRed,blue cut,low,930.08
+SKU_031,full-rim,MediumSlateBlue,blue cut,mid,2429.07
+SKU_032,half-rim,DarkKhaki,blue cut,mid,1858.03
+SKU_033,full-rim,DarkGoldenRod,single vision,high,4996.91
+SKU_034,full-rim,Olive,single vision,mid,2821.3
+SKU_035,full-rim,DarkGray,progressive,high,4307.95
+SKU_036,rimless,MintCream,single vision,mid,1701.44
+SKU_037,half-rim,MediumTurquoise,single vision,mid,1805.4
+SKU_038,half-rim,LightGray,blue cut,high,3553.36
+SKU_039,half-rim,Brown,progressive,mid,2327.52
+SKU_040,full-rim,Salmon,blue cut,high,4165.02
+SKU_041,full-rim,WhiteSmoke,single vision,high,4797.85
+SKU_042,full-rim,DarkRed,single vision,high,4241.32
+SKU_043,rimless,OldLace,blue cut,premium,7209.69
+SKU_044,full-rim,Cyan,blue cut,high,3533.61
+SKU_045,full-rim,LightYellow,blue cut,high,3920.61
+SKU_046,half-rim,MistyRose,single vision,low,935.19
+SKU_047,full-rim,GoldenRod,progressive,mid,2304.32
+SKU_048,rimless,CornflowerBlue,single vision,premium,7185.64
+SKU_049,full-rim,Brown,progressive,mid,2364.88
+SKU_050,full-rim,Khaki,blue cut,mid,2612.93
+SKU_051,full-rim,LightSteelBlue,progressive,mid,2772.02
+SKU_052,full-rim,Cyan,single vision,mid,1690.93
+SKU_053,half-rim,Lavender,blue cut,mid,2321.91
+SKU_054,full-rim,DarkGreen,single vision,mid,2163.24
+SKU_055,rimless,Olive,progressive,low,859.36
+SKU_056,rimless,LightSeaGreen,progressive,mid,1798.69
+SKU_057,half-rim,SaddleBrown,progressive,low,1090.11
+SKU_058,half-rim,Moccasin,single vision,mid,2626.45
+SKU_059,full-rim,DodgerBlue,single vision,premium,7545.01
+SKU_060,half-rim,NavajoWhite,progressive,mid,2393.18
+SKU_061,half-rim,MidnightBlue,progressive,mid,2321.81
+SKU_062,half-rim,HoneyDew,single vision,mid,2648.72
+SKU_063,full-rim,LightGreen,single vision,mid,1979.56
+SKU_064,full-rim,Cornsilk,progressive,high,4085.22
+SKU_065,full-rim,FloralWhite,single vision,high,4713.46
+SKU_066,full-rim,White,single vision,mid,2780.17
+SKU_067,half-rim,LemonChiffon,single vision,mid,1829.13
+SKU_068,full-rim,DodgerBlue,progressive,mid,2201.09
+SKU_069,full-rim,SandyBrown,single vision,mid,2464.12
+SKU_070,full-rim,Olive,single vision,mid,2641.84
+SKU_071,rimless,LightPink,single vision,low,813.57
+SKU_072,half-rim,Indigo,progressive,mid,2924.42
+SKU_073,full-rim,MediumOrchid,single vision,mid,1826.95
+SKU_074,full-rim,Chartreuse,progressive,high,4929.44
+SKU_075,full-rim,Khaki,single vision,mid,2094.98
+SKU_076,half-rim,BlanchedAlmond,progressive,low,1340.74
+SKU_077,rimless,Maroon,progressive,mid,2055.86
+SKU_078,rimless,PaleGoldenRod,progressive,low,1472.55
+SKU_079,full-rim,LightGreen,progressive,premium,6450.49
+SKU_080,full-rim,Coral,progressive,mid,2746.1
+SKU_081,full-rim,HotPink,single vision,mid,1543.05
+SKU_082,full-rim,Maroon,progressive,mid,2551.78
+SKU_083,rimless,HotPink,single vision,high,4381.22
+SKU_084,half-rim,SpringGreen,progressive,low,955.12
+SKU_085,half-rim,Orchid,single vision,mid,1996.19
+SKU_086,full-rim,Salmon,single vision,low,883.69
+SKU_087,full-rim,DarkTurquoise,single vision,high,3566.0
+SKU_088,full-rim,LightGray,single vision,low,809.9
+SKU_089,half-rim,DarkSlateGray,progressive,low,1407.92
+SKU_090,half-rim,LightBlue,single vision,low,835.96
+SKU_091,full-rim,WhiteSmoke,single vision,mid,1723.8
+SKU_092,rimless,LightGray,single vision,high,3451.37
+SKU_093,half-rim,Pink,single vision,high,4242.05
+SKU_094,half-rim,PaleGoldenRod,blue cut,mid,2490.64
+SKU_095,full-rim,MistyRose,single vision,mid,1936.89
+SKU_096,half-rim,Indigo,single vision,mid,2681.74
+SKU_097,rimless,DarkSlateGray,single vision,mid,2862.62
+SKU_098,full-rim,Teal,single vision,high,3248.71
+SKU_099,half-rim,Snow,blue cut,mid,1620.66
+SKU_100,full-rim,DarkGoldenRod,single vision,low,1473.34
+SKU_101,rimless,BurlyWood,progressive,mid,2634.4
+SKU_102,rimless,DarkOliveGreen,single vision,mid,2237.59
+SKU_103,full-rim,DeepSkyBlue,progressive,high,3576.44
+SKU_104,rimless,DimGray,single vision,mid,1984.91
+SKU_105,half-rim,Peru,blue cut,mid,2119.87
+SKU_106,half-rim,Coral,progressive,high,4855.35
+SKU_107,half-rim,OliveDrab,single vision,premium,6652.52
+SKU_108,half-rim,Olive,single vision,premium,7496.43
+SKU_109,half-rim,SeaGreen,progressive,mid,2752.09
+SKU_110,half-rim,Wheat,single vision,high,4728.05
+SKU_111,half-rim,LightCoral,single vision,high,3565.68
+SKU_112,half-rim,Aqua,blue cut,mid,2307.87
+SKU_113,half-rim,DarkOrange,single vision,mid,2546.25
+SKU_114,half-rim,WhiteSmoke,single vision,high,3772.16
+SKU_115,rimless,LightGreen,blue cut,mid,2253.44
+SKU_116,rimless,MediumSpringGreen,single vision,mid,2583.67
+SKU_117,full-rim,DarkOliveGreen,single vision,premium,7555.3
+SKU_118,rimless,LightYellow,blue cut,mid,2578.08
+SKU_119,full-rim,PowderBlue,single vision,mid,2996.14
+SKU_120,full-rim,DimGray,progressive,high,4806.85
+SKU_121,half-rim,SaddleBrown,single vision,mid,2296.75
+SKU_122,full-rim,AliceBlue,single vision,high,4825.66
+SKU_123,half-rim,LightGray,single vision,mid,2706.95
+SKU_124,full-rim,SteelBlue,single vision,mid,2458.41
+SKU_125,rimless,Fuchsia,single vision,mid,1855.81
+SKU_126,rimless,Tan,single vision,premium,7057.4
+SKU_127,half-rim,DarkMagenta,single vision,mid,2856.23
+SKU_128,half-rim,Lime,single vision,mid,2516.65
+SKU_129,rimless,Tan,progressive,high,3881.65
+SKU_130,half-rim,Gray,single vision,mid,1763.46
+SKU_131,rimless,DeepSkyBlue,single vision,high,4649.38
+SKU_132,rimless,Navy,progressive,mid,2944.34
+SKU_133,rimless,DodgerBlue,progressive,premium,7372.05
+SKU_134,full-rim,Yellow,single vision,mid,2508.51
+SKU_135,rimless,Wheat,single vision,mid,2826.35
+SKU_136,full-rim,AliceBlue,single vision,high,3816.59
+SKU_137,rimless,MediumBlue,single vision,mid,2830.89
+SKU_138,half-rim,SlateGray,progressive,high,3309.05
+SKU_139,full-rim,Azure,single vision,mid,1549.07
+SKU_140,rimless,DarkOliveGreen,blue cut,low,1279.98
+SKU_141,full-rim,MistyRose,single vision,low,1393.62
+SKU_142,half-rim,Linen,single vision,high,4129.16
+SKU_143,half-rim,LawnGreen,single vision,mid,1992.84
+SKU_144,full-rim,Chartreuse,blue cut,low,890.99
+SKU_145,full-rim,LawnGreen,single vision,high,3348.49
+SKU_146,half-rim,Cyan,single vision,high,4026.48
+SKU_147,half-rim,DarkBlue,blue cut,low,1348.26
+SKU_148,rimless,SlateBlue,single vision,mid,2529.15
+SKU_149,full-rim,CornflowerBlue,single vision,mid,1912.52
+SKU_150,full-rim,White,blue cut,mid,2408.14
+SKU_151,rimless,DarkSalmon,progressive,high,3903.11
+SKU_152,full-rim,DarkSalmon,single vision,mid,2140.15
+SKU_153,full-rim,Sienna,blue cut,low,1382.24
+SKU_154,rimless,FireBrick,single vision,mid,1994.47
+SKU_155,half-rim,LightGray,progressive,high,4200.82
+SKU_156,half-rim,Wheat,single vision,mid,1662.33
+SKU_157,half-rim,Peru,single vision,high,4636.85
+SKU_158,half-rim,HotPink,single vision,high,3360.83
+SKU_159,full-rim,Yellow,single vision,low,1408.9
+SKU_160,half-rim,Green,single vision,high,3681.79
+SKU_161,half-rim,Magenta,progressive,mid,1578.91
+SKU_162,half-rim,PaleGoldenRod,single vision,mid,2163.07
+SKU_163,full-rim,Navy,single vision,mid,2229.95
+SKU_164,full-rim,Purple,single vision,low,1010.99
+SKU_165,full-rim,Tomato,single vision,high,4407.34
+SKU_166,rimless,RoyalBlue,progressive,low,1403.24
+SKU_167,rimless,DarkOrchid,single vision,mid,2126.54
+SKU_168,full-rim,LightBlue,progressive,mid,2879.65
+SKU_169,full-rim,Ivory,single vision,mid,1965.41
+SKU_170,full-rim,Coral,single vision,low,1156.97
+SKU_171,rimless,MediumSlateBlue,progressive,mid,1795.91
+SKU_172,half-rim,Beige,single vision,high,4519.75
+SKU_173,rimless,Khaki,single vision,mid,2796.37
+SKU_174,full-rim,Indigo,single vision,mid,1584.26
+SKU_175,half-rim,AntiqueWhite,single vision,high,4710.59
+SKU_176,half-rim,Cornsilk,single vision,mid,2843.82
+SKU_177,half-rim,Chocolate,single vision,mid,1592.81
+SKU_178,full-rim,Khaki,progressive,mid,1871.62
+SKU_179,half-rim,CornflowerBlue,single vision,mid,2113.15
+SKU_180,half-rim,BlanchedAlmond,progressive,low,866.15
+SKU_181,half-rim,MediumPurple,blue cut,high,3282.86
+SKU_182,rimless,Cornsilk,progressive,mid,2907.0
+SKU_183,half-rim,Thistle,progressive,mid,2608.16
+SKU_184,half-rim,LavenderBlush,single vision,mid,1770.39
+SKU_185,half-rim,LightSeaGreen,single vision,low,854.02
+SKU_186,rimless,SlateBlue,blue cut,low,1035.74
+SKU_187,full-rim,HotPink,progressive,high,3875.35
+SKU_188,half-rim,Yellow,single vision,mid,2622.8
+SKU_189,full-rim,DarkSeaGreen,progressive,mid,2051.76
+SKU_190,half-rim,Sienna,single vision,mid,2949.4
+SKU_191,full-rim,LemonChiffon,single vision,mid,2331.81
+SKU_192,rimless,Sienna,single vision,high,3294.7
+SKU_193,rimless,PaleTurquoise,single vision,mid,1540.01
+SKU_194,full-rim,Gold,blue cut,mid,2896.24
+SKU_195,half-rim,DarkGray,single vision,mid,2544.11
+SKU_196,full-rim,DarkGray,single vision,low,979.15
+SKU_197,half-rim,Plum,single vision,mid,1571.62
+SKU_198,half-rim,MidnightBlue,single vision,high,4030.75
+SKU_199,full-rim,Peru,single vision,mid,2124.85
+SKU_200,rimless,PaleVioletRed,single vision,mid,2982.5
